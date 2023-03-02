@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="512"
+   height="512"
+   viewBox="0 0 512 512"
+   version="1.1"
+   id="svg5"
+   inkscape:export-filename="cara-moneda.svg"
+   inkscape:export-xdpi="96"
+   inkscape:export-ydpi="96"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview7"
+     pagecolor="#ffffff"
+     bordercolor="#000000"
+     borderopacity="0.25"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     inkscape:document-units="px"
+     showgrid="false" />
+  <defs
+     id="defs2">
+    <rect
+       x="208.17429"
+       y="196.31721"
+       width="168.15199"
+       height="111.29357"
+       id="rect722" />
+  </defs>
+  <g
+     inkscape:label="Capa 1"
+     inkscape:groupmode="layer"
+     id="layer1">
+    <circle
+       style="fill:#b3b3b3"
+       id="path111"
+       cy="231.05882"
+       cx="261.23654"
+       inkscape:transform-center-x="15.544"
+       inkscape:transform-center-y="-95.96375"
+       r="140" />
+    <circle
+       style="fill:#ffdd55"
+       id="path111-1"
+       cy="231.05882"
+       cx="261.23654"
+       inkscape:transform-center-x="16.133447"
+       inkscape:transform-center-y="-90.512075"
+       r="120" />
+    <text
+       xml:space="preserve"
+       id="text720"
+       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:64px;font-family:'Ubuntu Mono';-inkscape-font-specification:'Ubuntu Mono Bold';white-space:pre;shape-inside:url(#rect722);shape-padding:0.207286;fill:#b3b3b3"
+       transform="translate(-9.9601345,-5.3188757)"><tspan
+         x="208.38086"
+         y="256.2177"
+         id="tspan1033">Cruz</tspan></text>
+  </g>
+</svg>
