@@ -7,11 +7,11 @@
     $lista[$i] = rand(0,30);
   }
 
-  // for ($i = 0; $i < NUMERO_ELEMENTOS; $i++) {
-  //   echo $lista[$i];
+  for ($i = 0; $i < NUMERO_ELEMENTOS; $i++) {
+    echo $lista[$i];
   
-  //   echo "<br>";
-  // }
+    echo "<br>";
+  }
 
   #--------------------------------------------------
   # Media de las "temperaturas" aleatorias
